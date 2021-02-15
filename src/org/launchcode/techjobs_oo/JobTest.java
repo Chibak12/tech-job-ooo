@@ -1,4 +1,4 @@
-package Tests;
+package org.launchcode.techjobs_oo;
 
 import org.junit.Assert;
 import org.junit.Before;
